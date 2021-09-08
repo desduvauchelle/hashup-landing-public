@@ -84,9 +84,6 @@ angular.module("pages/components/footer/footer.tpl.html", []).run(["$templateCac
     "            </div>\n" +
     "            <div class=\"col-xs-6 col-md-3 col-sm-6\">\n" +
     "                <h3>Contact</h3>\n" +
-    "                <a ui-sref=\"contact\">Direct contact</a>\n" +
-    "                <a href=\"mailto:denis@babygotchi.com\">denis(at)babygotchi.com</a>\n" +
-    "                <a href=\"https://twitter.com/_hashup\" target=\"_blank\" ><i class=\"fa fa-twitter\"></i> Twitter</a>\n" +
     "            </div>\n" +
     "            <div class=\"col-xs-6 col-md-3 col-sm-6\">\n" +
     "                <a ui-sref=\"home\" class=\"brand wow fadeInUp\">HASHUP</a>\n" +
@@ -167,38 +164,9 @@ angular.module("pages/contact/contact.tpl.html", []).run(["$templateCache", func
     "<div class=\"page-wrapper\" id=\"page-contact\">\n" +
     "    <div class=\"container\">\n" +
     "        <h1>Say hello.</h1>\n" +
-    "        <h2>If you have any questions, reach out. <br />We're happy to talk.</h2>\n" +
+    "        <h2>If you have any questions, reach out on Github. <br />We're happy to talk.</h2>\n" +
     "        <div class=\"row\">\n" +
     "            <div class=\"col-md-4 col-md-offset-4\">\n" +
-    "                <h3>Direct contact</h3>\n" +
-    "                <form ng-submit=\"sendMessage()\" ng-show=\"showForm\" name=\"contactForm\" novalidate>\n" +
-    "                    <div ng-class=\"(contactForm.name.$invalid && contactForm.name.$touched) ? 'has-feedback has-error': ''\" class=\"form-group\">\n" +
-    "                        <!--has-feedback has-success-->\n" +
-    "                        <label for=\"name\">Your name</label>\n" +
-    "                        <input ng-model=\"message.name\" ng-required=\"true\" type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" placeholder=\"Name...\" tabindex=\"10\">\n" +
-    "                        <!--<span class=\"fa fa-warning form-control-feedback\" aria-hidden=\"true\"></span>-->\n" +
-    "                    </div>\n" +
-    "                    <p ng-show=\"contactForm.name.$invalid && contactForm.name.$touched\" class=\"alert alert-danger\" role=\"alert\">Please enter a valid name</p>\n" +
-    "\n" +
-    "                    <div ng-class=\"(contactForm.name.$invalid && contactForm.name.$touched) ? 'has-feedback has-error': ''\" class=\"form-group\">\n" +
-    "                        <label for=\"email\">Email address</label>\n" +
-    "                        <input ng-model=\"message.email\" ng-required=\"true\" type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" placeholder=\"Email...\" tabindex=\"11\">\n" +
-    "                        <!--<span class=\"fa fa-warning form-control-feedback\" aria-hidden=\"true\"></span>-->\n" +
-    "                    </div>\n" +
-    "                    <p ng-show=\"contactForm.email.$invalid && contactForm.email.$touched\" class=\"alert alert-danger\" role=\"alert\">Please enter a valid email address</p>\n" +
-    "\n" +
-    "                    <div class=\"form-group has-feedback\">\n" +
-    "                        <label for=\"message\">Message</label>\n" +
-    "                        <textarea ng-model=\"message.content\" ng-required=\"true\" class=\"form-control\" rows=\"5\" id=\"message\" name=\"message\" placeholder=\"Your message...\" tabindex=\"12\"></textarea>\n" +
-    "\n" +
-    "                        <p ng-show=\"contactForm.content.$invalid && contactForm.content.$touched\" class=\"alert alert-danger\" role=\"alert\">Please enter a message</p>\n" +
-    "                    </div>\n" +
-    "\n" +
-    "                    <p class=\"help-block\">All fields are mandatory</p>\n" +
-    "                    <button ng-disabled=\"contactForm.$invalid\" type=\"submit\" class=\"btn btn-primary btn-lg\" tabindex=\"13\">Send</button>\n" +
-    "                </form>\n" +
-    "\n" +
-    "                <p ng-hide=\"showForm\" class=\"alert alert-success\">Your message has been sent! We'll get back in touch very soon.</p>\n" +
     "            </div>\n" +
     "        </div>\n" +
     "    </div>\n" +
