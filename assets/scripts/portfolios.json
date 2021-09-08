@@ -1,0 +1,84 @@
+[{
+    "id": "babygotchi",
+    "title": "Babygotchi",
+    "type": ["apple"],
+    "description": "The best iPhone app for new parents",
+    "details": "After having the first baby. We noticed that apps for baby journaling were lacking, non-appealing, no-fun. So we decided to create this little app that is the most fun and easy to use for new parents. You can track your babies activities, keep score and compete with your partner. Always know who did what.",
+    "image": "babygotchi.png",
+    "discover": ["1.jpg","2.jpg","3.jpg","4.jpg"],
+    "stack": ["Swift","HTML","CSS/LESS","Javascript"],
+    "link": "https://itunes.apple.com/app/id1034165154"
+}, {
+    "id": "twoodo",
+    "title": "Twoodo",
+    "type": ["desktop","apple","android"],
+    "description": "The best team collaboration tool",
+    "details": "Completed from the bottom up. On this project Denis is CEO of the startup which was accepted in StartupBootcamp Amsterdam (selected in the top 9 from 580 companies). The project raised over 250 000 Euros, is supported by Amazon Web Services and more. It has become a reference for collaboration tools along Basecamp, Trello, Slack and more.",
+    "image": "twoodo.png",
+    "stack": ["java","dustJS","HTML","CSS/LESS","Javascript","Objective-C"],
+    "discover": ["1.jpg","2.jpg","3.jpg","4.jpg","5.png","6.png","7.png","8.png"],
+    "link": "https://www.twoodo.com"
+}, {
+    "id": "scrumy",
+    "title": "Scrumy",
+    "type": ["desktop"],
+    "description": "Quick and easy Agile scrum planning",
+    "details": "This is quick 1 week build that I did for a client that had a concept for Scrum management. Built for internal use only for the moment, but let us know if you want to try it out. It allows you to easily estimate the amount of time you need to complete a project/product as well as track the progress, the tasks, the bugs and share it with others.",
+    "image": "scrumy.png",
+    "discover": ["1.png","2.png","3.png","4.png","5.png"],
+    "link": "http://scrumy.hashup.io"
+}, {
+    "id": "infinity",
+    "title": "Infinity habit",
+    "type": ["desktop"],
+    "description": "Build long lasting habits",
+    "details": "This is a quick build project I did in 2 weeks. It's based on intense research of the latest strategies to implementing habits and making them stick. Go check it out to see if it can help you!",
+    "image": "infinity.png",
+    "discover": ["1.png","2.png","3.png"],
+    "link": "http://habit.hashup.io"
+},  {
+    "id": "impact",
+    "title": "Series impact",
+    "type": ["desktop"],
+    "description": "Training simulation platform",
+    "details": "Easily build and run training simulations for effective and engaged learning. This is a joint project still in Beta. I wireframed, designed and built the platform in about 2months on and off. ",
+    "image": "impact.png",
+    "discover": ["1.png","2.png","3.png"],
+    "link": "http://seriesimpact.com"
+}, {
+    "id": "sonia",
+    "title": "Sonia Leloup",
+    "type": ["desktop"],
+    "description": "Client portfolio",
+    "details": "Sonia Leloup is a graphic artist that does some amazing work, I really recommend to check out her work!  The design of the site was done by herself and then programmed by me.  It includes a home made and very easy to use CMS system.",
+    "image": "sonia.png",
+    "discover": ["1.png","2.png","3.png","4.png"],
+    "link": "http://www.sonialeloup.com/"
+}, {
+    "id": "kahn",
+    "title": "YES WE KAHN",
+    "type": ["desktop"],
+    "description": "e-commerce website",
+    "details": "This client wanted to have a real simple and straightforward e-commerce website to sell political t-shirts back in 2008. We managed to develop a really simple user interface with a single page shop! It gave us a great result. Design from David Arnoux and programmed by me.",
+    "image": "kahn.png",
+    "discover": ["1.jpg","2.jpg","3.jpg"],
+    "link": "http://www.teeshirtyeswekahn.com/"
+}, {
+    "id": "fortune",
+    "title": "Fortune GIF",
+    "type": ["desktop"],
+    "description": "Simple website",
+    "details": "This is a side project just for fun. It's like a magic 8 ball but with animated gifs that give you the answer. We got a pretty good buzz out of it and some regular traffic still going through.  The design was done by David Arnoux and then programmed by me.",
+    "image": "fortune.png",
+    "discover": ["1.png","2.png"],
+    "link": "http://www.fortunegif.com/"
+}, {
+    "id": "aiglon",
+    "title": "Aiglon Limousine",
+    "type": ["desktop"],
+    "description": "Simple website",
+    "details": "Website done for Aiglon Limousine, a taxi service in Paris, France. Design + Pictures + code by Hashup.",
+    "image": "aiglon.png",
+    "discover": ["1.png","2.png"],
+    "link": "http://www.aiglon-transfert.com/"
+}]

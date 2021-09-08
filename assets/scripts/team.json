@@ -1,0 +1,46 @@
+[
+	{
+		"category": "core",
+		"name": "Denis Duvauchelle",
+		"img": "assets/img/team/me.jpg",
+		"role": "Product manager / UX / Coder",
+		"past": "Degrees in Engineering, Management and economics. Founder of 5 startups and advisor for another 20 startups. Raised over 300K Euros in investment.",
+		"responsibility": "Main contact point when working with Hashup. He's in charge of making your product amazing. With great knowledge in project management, user experience, gamification & habit forming products."
+	}
+	,
+	{
+		"category": "freelancer",
+		"name": "Mark Leruste",
+		"img": "assets/img/team/mark.jpg",
+		"role": "Storytelling / Marketing / Coach",
+		"past": "He sold ads accross the globe for newspapers before becoming THE representative for men's health in France, Spain and Belgium for Movember. Check out his outdated yet still awesome video CV here: https://www.youtube.com/watch?v=c_PZTAW5piQ",
+		"responsibility": "Want to get your message accross? He's the man."
+	}
+	,
+	{
+		"category": "freelancer",
+		"name": "Tony Duvauchelle",
+		"img": "assets/img/team/antoine.jpg",
+		"role": "Consultant / Business model / Strategy",
+		"past": "Ex-VC, INSEAD Alumni. He has the brain to see the big picture and potential",
+		"responsibility": "Business estimation and company growth planning."
+	}
+	,
+	{
+		"category": "freelancer",
+		"name": "Eric Duvauchelle",
+		"img": "assets/img/team/eric.jpg",
+		"role": "Design / UX",
+		"past": "After having designed the pocket album for Kanye West best sold album, he went on to become Art Director for Nike.",
+		"responsibility": "Assists in understanding concepts and design!"
+	}
+	,
+	{
+		"category": "freelancer",
+		"name": "David Arnoux",
+		"img": "assets/img/team/david.jpg",
+		"role": "Growth Hacking",
+		"past": "Launched french fashion boutiques in Paris and went on to work for Saas startups and now teaching Growth hacking.",
+		"responsibility": "Growth technics & Lean methodology expert."
+	}
+]
